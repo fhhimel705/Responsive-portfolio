@@ -383,7 +383,12 @@ button:hover {
     padding: 20px;
   }
   .hire, .cv ,.contact ,.btn-0-9{
-    padding: 15px;
+    padding: 8px 15px 8px 15px;
+    font-size: small;
+  }
+  .what-0-0{
+    /* justify-content: center; */
+    align-items: center;
   }
  
 }
